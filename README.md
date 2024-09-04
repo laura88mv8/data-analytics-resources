@@ -14,7 +14,7 @@ A resource center for articles, books, videos, and tools to support continuous l
 ### YouTube Channels
 
 [Agatha Khan](https://www.youtube.com/@agathakang) - Data / Career / Life 
-[Eze Talamona] (https://www.youtube.com/@ezetalamona)- Data Analysis in Spanish
+[Eze Talamona](https://www.youtube.com/@ezetalamona)- Data Analysis in Spanish
 
 [Alex the Analyst](https://www.youtube.com/@AlexTheAnalyst) - Helping you become an Analyst Faster 
 
