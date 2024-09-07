@@ -114,4 +114,9 @@ A resource center for articles, books, videos, and tools to support continuous l
 [Elijah Butler](https://www.linkedin.com/in/elijahbutler/) - Sr. Data Analyst, Top Data Viz Voice, Posts about free data analytics resources
 
 
+## Questions- Data Analysis
+
+[Do I have to be good at maths to be a data analyst](https://www.reddit.com/r/dataanalysis/comments/1faihfo/do_i_have_to_be_good_at_maths_to_be_a_data_analyst/) 
+
+
      
