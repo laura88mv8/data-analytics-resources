@@ -31,6 +31,9 @@ A resource center for articles, books, videos, and tools to support continuous l
 
 [Datalyser](https://www.youtube.com/@danalyser)
 
+##Blogs 
+[7 Cool Data Science Project Ideas for Beginners] (https://www.kdnuggets.com/7-cool-data-science-project-ideas-for-beginners)- Are you a data science beginner looking to build your portfolio? Start working on these projects today.
+
 ## Books 
 
 [Storytelling With Data](https://www.amazon.com/Storytelling-Data-Visualization-Business-Professionals/dp/1119002257) - by Cole Nussbaumer Knaflic
