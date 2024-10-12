@@ -35,7 +35,7 @@ A resource center for articles, books, videos, and tools to support continuous l
 
 [7 Cool Data Science Project Ideas for Beginners](https://www.kdnuggets.com/7-cool-data-science-project-ideas-for-beginners)- Are you a data science beginner looking to build your portfolio? Start working on these projects today.
 
-[Data Storytelling: How to Turn Numbers into Compelling Business Narrative](shttps://mailchimp.com/resources/data-storytelling/?igaag=154664726859&igaat=&igacm=20637339549&igacr=687230856184&igakw=&igamt=&igant=g&ds_c=DEPT_AOC_Google_Search_US_EN_NB_Acquire_Broad_DSA-Rsrc_US&ds_kids=p78250621731&ds_a_lid=aud-988878998056:dsa-2227026702184&ds_cid=71700000115207178&ds_agid=58700008574686663&gad_source=1&gclid=CjwKCAjwmaO4BhAhEiwA5p4YL8h5-zPfkNGkrsaBwqIzSufBE1CuZfRI-8sVk2traM1heMp-xAHw1RoCpwYQAvD_BwE&gclsrc=aw.ds)
+[Data Storytelling: How to Turn Numbers into Compelling Business Narrative](shttps://mailchimp.com/resources/data-storytelling/?igaag=154664726859&igaat=&igacm=20637339549&igacr=687230856184&igakw=&igamt=&igant=g&ds_c=DEPT_AOC_Google_Search_US_EN_NB_Acquire_Broad_DSA-Rsrc_US&ds_kids=p78250621731&ds_a_lid=aud-988878998056:dsa-2227026702184&ds_cid=71700000115207178&ds_agid=58700008574686663&gad_source=1&gclid=CjwKCAjwmaO4BhAhEiwA5p4YL8h5-zPfkNGkrsaBwqIzSufBE1CuZfRI-8sVk2traM1heMp-xAHw1RoCpwYQAvD_BwE&gclsrc=aw.ds)- Get started with our guide to start telling effective stories with data.
 
 ## Books 
 
